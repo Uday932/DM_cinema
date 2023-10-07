@@ -1,0 +1,15 @@
+E:\2TSLAM\DM\dm_cinema\dm_cinema\bin\Debug\net6.0\dm_cinema.exe
+E:\2TSLAM\DM\dm_cinema\dm_cinema\bin\Debug\net6.0\dm_cinema.deps.json
+E:\2TSLAM\DM\dm_cinema\dm_cinema\bin\Debug\net6.0\dm_cinema.runtimeconfig.json
+E:\2TSLAM\DM\dm_cinema\dm_cinema\bin\Debug\net6.0\dm_cinema.dll
+E:\2TSLAM\DM\dm_cinema\dm_cinema\bin\Debug\net6.0\dm_cinema.pdb
+E:\2TSLAM\DM\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.csproj.AssemblyReference.cache
+E:\2TSLAM\DM\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.GeneratedMSBuildEditorConfig.editorconfig
+E:\2TSLAM\DM\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.AssemblyInfoInputs.cache
+E:\2TSLAM\DM\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.AssemblyInfo.cs
+E:\2TSLAM\DM\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.csproj.CoreCompileInputs.cache
+E:\2TSLAM\DM\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.dll
+E:\2TSLAM\DM\dm_cinema\dm_cinema\obj\Debug\net6.0\refint\dm_cinema.dll
+E:\2TSLAM\DM\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.pdb
+E:\2TSLAM\DM\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.genruntimeconfig.cache
+E:\2TSLAM\DM\dm_cinema\dm_cinema\obj\Debug\net6.0\ref\dm_cinema.dll
